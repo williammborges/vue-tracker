@@ -1,4 +1,4 @@
-# alura-tracker
+# vue-tracker
 
 ## Project setup
 ```
